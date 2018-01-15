@@ -1,0 +1,4 @@
+#Mon Jan 15 10:38:26 CET 2018
+base.0=/home/usuario/AndroidStudioProjects/UT5 - Ejemplos_Apuntes/NinePatch/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
